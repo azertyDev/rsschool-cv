@@ -1,11 +1,11 @@
 # 1. First Name, Last Name
-**_Khikmatov Umid_**
+_Khikmatov Umid_
 # 2. Contact Info
-1. **_Phone:_** *+998909504960*
-2. **_Email_**: *<khikmatovumid@gmail.com>*
-3. **_Github:_** [**azertyDev**](https://github.com/azertyDev "My github page")
+1. _Phone:_ *+998909504960*
+2. _Email_: *<khikmatovumid@gmail.com>*
+3. _Github:_ [azertyDev](https://github.com/azertyDev "My github page")
 # 3. Summary
-> Results-oriented software engineer with a focus on the design and implementation of relational database systems. 8+ years of experience in developing cutting-edge engineering solutions with a wide range of eCommerce and technology features. Skilled in agile processes, backend and frontend development, and creating eCommerce websites that integrate with Paypal, Stripe and other payment APIs.
+> Results-oriented software engineer with a focus on the design and implementation of relational database systems. 2 years of experience in developing cutting-edge engineering solutions with a wide range of eCommerce and technology features. Skilled in backend and frontend development, and creating eCommerce websites that integrate with Paypal, Stripe and other payment APIs.
 
 # 4. Skills
 - The usual languages:
@@ -80,7 +80,7 @@
 
 # 7. Education
 
-### **_Master student at Tashkent University of Information Technology_**
+### _Master student at Tashkent University of Information Technology_
 
 # 8. English
-### Level: Intermediate 
+### Level: Intermediate
