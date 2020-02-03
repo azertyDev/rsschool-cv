@@ -16,6 +16,11 @@ body {
   li {
     list-style: none;
   }
+
+  li:hover {
+    text-decoration: underline;
+    color: midnightblue;
+  }
   
   header img {
     display: block;
