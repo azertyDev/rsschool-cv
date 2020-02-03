@@ -10,6 +10,11 @@
 # 4. Skills
 - The usual languages:
    - Javascript
+- Database applications:
+   - MySQL
+   - PostgreSQL
+   - MongoDB
+   - Oracle
 - Operating systems:
    - Windows
    - Linux/Unix
