@@ -1,0 +1,23 @@
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+    background: rgba(207, 198, 198, 0.4);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  header img {
+    display: block;
+    margin: 0 auto;
+  }
