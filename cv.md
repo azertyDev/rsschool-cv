@@ -21,7 +21,6 @@ _Khikmatov Umid_
 - Web applications:
    - HTML
    - CSS
-   - React
 - Frameworks and Libraries:
   - React
   - Bootstrap
